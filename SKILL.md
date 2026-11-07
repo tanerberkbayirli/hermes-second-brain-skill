@@ -3,7 +3,7 @@ name: second-brain-protocol
 use_when: User captures notes or maintains a second-brain file ('not et').
 description: Use when the user captures notes or maintains a brain file.
 version: 1.1.0
-author: Hermes Agent + Taner
+author: TanerBerkB
 license: MIT
 metadata:
   hermes:
